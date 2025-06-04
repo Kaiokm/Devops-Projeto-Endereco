@@ -57,6 +57,10 @@ A aplicação estará disponível em: [http://localhost:8080](http://localhost:8
    cd frontend
    ```
 
+```bash
+   cd frontend-app
+   ```
+
 2. Instale as dependências:
 
    ```bash
@@ -98,7 +102,7 @@ O Docker irá configurar tanto o back-end quanto o MongoDB automaticamente. O fr
 
 ## Créditos
 
-Projeto inspirado por \[nome-do-canal-do-YouTube]. Este projeto é uma evolução do conteúdo apresentado no vídeo, com adições e adaptações para atender aos requisitos acadêmicos.
+Projeto inspirado por \Javanauta. Este projeto é uma evolução do conteúdo apresentado no vídeo, com adições e adaptações para atender aos requisitos acadêmicos.
 
 ---
 
